@@ -18,4 +18,5 @@
     <li>Pagination</li>
     <li>File upload</li>
     <li>Edit listing</li>
+    <li>Delete listing</li>
 </ul> 
