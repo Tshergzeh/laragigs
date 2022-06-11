@@ -18,4 +18,6 @@
     <li>Pagination</li>
     <li>File upload</li>
     <li>Edit listing</li>
+    <li>Delete listing</li>
+    <li>User Registration</li>
 </ul> 
