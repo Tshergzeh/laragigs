@@ -22,4 +22,5 @@
     <li>User Registration</li>
     <li>Auth Links</li>
     <li>User Login</li>
+    <li>Relationships</li>
 </ul> 
