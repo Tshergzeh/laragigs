@@ -17,4 +17,5 @@
     <li>Flash messages</li>
     <li>Pagination</li>
     <li>File upload</li>
+    <li>Edit listing</li>
 </ul> 
